@@ -28,7 +28,7 @@ const Home = () => {
           <motion.div className='home-content' {... headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className='head-text'>
-                Let's <br className='x1:block hidden' /> Do it.
+                Sablon <br className='x1:block hidden' /> AI
               </h1>
             </motion.div>
             <motion.div
@@ -36,7 +36,7 @@ const Home = () => {
             className='flex flex-col gap-5'
             >
               <p className='max-w-md font-normal text-gray-600 text-base'>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda illo, doloribus quidem perferendis quis accusamus?
+                Aplikasi ini dibuat untuk mempermudah pelanggan dengan simulasi warna dan logo pada kaos yang dipesan. 
               </p>
               <CustomButton 
               type="filled"
